@@ -9,9 +9,10 @@
 - [Outros Projetos](#Outros-projetos)
 
 ## Descrição curta
+Este projeto é uma simulação de um backend para um aplicativo de finanças pessoais. Ele permite que os usuários gerenciem suas despesas, receitas e investimentos de forma eficiente. Além disso, o aplicativo inclui funcionalidades para rastrear e categorizar transações, bem como ferramentas avançadas para análises financeiras
 
 ## Pré-Requisitos
-Este projeto requer **o Python na versão 3.6 ou superior para funcionar corretamente, além das bibliotecas indicadas no setup.py,Além disso é preciso ter istalado na sua máquina as seguintes ferramentas**:
+Este projeto requer **o Python na versão 3.8 para funcionar corretamente,Além disso é preciso ter istalado na sua máquina as seguintes ferramentas**:
 
 * [Git](https://git-scm.com) -> Controle de versão e clonagem de repositório.
 * [VScode](https://code.visualstudio.com/) -> Editor recomendado, não é necessariamente uma pré-requisto.
