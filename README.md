@@ -24,11 +24,9 @@ O projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICENSE)
 
 ## Instalação
 
-- [X] clone este repositorio:
-
-- [X] Navegue até o diretório do projeto
-
-- [X] Instale o projeto e suas depedências com o pip
+- [X] Clone este repositório:
+  ```bash
+  git clone https://github.com/Project-OOP-2/Project-2.git
 
 
 ## Contato
