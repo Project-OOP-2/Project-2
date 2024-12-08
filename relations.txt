@@ -1,1 +1,13 @@
+-RELÇÕES ENTRE AS CLASSES DO CÓDIGO
+
+Composição:
+.Account e Transaction: Transaction é instanciado em Account
+.Account e Client: Client é instanciado em Account
+.Client e Account: Account é instanciado em Client
+.Investiment e Account: 
+
+Herança:
+.Investment herda Account
+
+
 
