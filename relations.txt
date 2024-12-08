@@ -5,9 +5,3 @@ Composição:
 .Account e Client: Client é instanciado em Account
 .Client e Account: Account é instanciado em Client
 .Investiment e Account: 
-
-Herança:
-.Investment herda Account
-
-
-
